@@ -1,0 +1,10 @@
+jupyterlab
+nbclient
+git+https://github.com/huggingface/transformers.git
+datasets>=2.0.0
+evaluate
+seqeval
+torch
+numpy
+pandas
+scikit-learn
