@@ -7,4 +7,5 @@ seqeval
 torch
 numpy
 pandas
+pillow
 scikit-learn
